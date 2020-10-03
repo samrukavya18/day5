@@ -1,3 +1,3 @@
 
-echo "hi welcome everyone"
+echo "hi welcome everybody"
 
