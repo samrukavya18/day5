@@ -3,7 +3,7 @@
 
 read -p "Enter first number: " x
 read -p "Enter second number: " y
-c=$(( $x + $y ))
-echo $c
+z=$(( $x + $y ))
+echo $z
 
 
